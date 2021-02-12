@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gameOfTron_react_mediumLevel/static/css/main.a4defb2c.chunk.css",
+    "main.js": "/gameOfTron_react_mediumLevel/static/js/main.30965377.chunk.js",
+    "main.js.map": "/gameOfTron_react_mediumLevel/static/js/main.30965377.chunk.js.map",
+    "runtime-main.js": "/gameOfTron_react_mediumLevel/static/js/runtime-main.d1999376.js",
+    "runtime-main.js.map": "/gameOfTron_react_mediumLevel/static/js/runtime-main.d1999376.js.map",
+    "static/css/2.ec9af275.chunk.css": "/gameOfTron_react_mediumLevel/static/css/2.ec9af275.chunk.css",
+    "static/js/2.f373ae81.chunk.js": "/gameOfTron_react_mediumLevel/static/js/2.f373ae81.chunk.js",
+    "static/js/2.f373ae81.chunk.js.map": "/gameOfTron_react_mediumLevel/static/js/2.f373ae81.chunk.js.map",
+    "index.html": "/gameOfTron_react_mediumLevel/index.html",
+    "static/css/2.ec9af275.chunk.css.map": "/gameOfTron_react_mediumLevel/static/css/2.ec9af275.chunk.css.map",
+    "static/css/main.a4defb2c.chunk.css.map": "/gameOfTron_react_mediumLevel/static/css/main.a4defb2c.chunk.css.map",
+    "static/js/2.f373ae81.chunk.js.LICENSE.txt": "/gameOfTron_react_mediumLevel/static/js/2.f373ae81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1999376.js",
+    "static/css/2.ec9af275.chunk.css",
+    "static/js/2.f373ae81.chunk.js",
+    "static/css/main.a4defb2c.chunk.css",
+    "static/js/main.30965377.chunk.js"
+  ]
+}
